@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE type PUBLIC
+"-//NetBeans//DTD annotation type 1.1//EN"
+"http://www.netbeans.org/dtds/annotation-type-1_1.dtd">
+<type name="org-netbeans-modules-cppcoverage"
+      description_key="Cover"
+      localizing_bundle="pro.elab.cppcoverage.Bundle"
+      visible="true" 
+      glyph="nbresloc:/org/netbeans/modules/java/resources/error-glyph.gif"
+      highlight="#66CC33"
+      type="line"
+      browseable="false"
+      severity="ok"
+/>
